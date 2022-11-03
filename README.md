@@ -1,0 +1,2 @@
+# redux
+my first project 
